@@ -11,6 +11,8 @@
       "url": "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd",
       "key": "1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c"
     },
+
+    {
       "name": "mbc action",
       "url": "https://live-event-1.akamaized.net/out/v1/5e6bf6cec93b4d70be12d109cdd43d4c/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cc668b04c6f99b3afb2188a5fd6a7f97}"
     },
