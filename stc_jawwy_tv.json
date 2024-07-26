@@ -8,8 +8,7 @@
     
     {
       "name": "National Geographic",
-      "url": "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd",
-      "key": "1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c"
+      "url": "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e0f94dbfbf9e6e45c9567a7b50eb612c}"
     },
 
     {
