@@ -27,186 +27,187 @@
 },
 
 {
-  "Animal Planet": ,
+  "name": "Animal Planet": ,
   "url": "https://uselector.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a57d64d5e08284e52555f57b8e68b21c}"
 },
     {   
-  "Discovery HD": ,
+ "name": "Discovery HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f6907d65b8405097d477e0e0b69007f2}"
   },
     {
-  "Discovery Family HD": ,
+ "name": "Discovery Family HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8c1c393bb61be740910438f6e49c7c32}"
   },
     {
-  "Investigation Discovery (ID)": ,
+ "name": "Investigation Discovery (ID)": ,
     "url": "https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=674099ec66ddecbc55a244ce06228188}"
   },
     {
-  "Alsharq Alawthaekeya": ,
+ "name": "Alsharq Alawthaekeya": ,
     "url": "https://uselector.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7a2fa6ebc8469ff8823297bceca60ec3}"
   },
     {
-  "Alsharq Discovery": ,
+ "name": "Alsharq Discovery": ,
     "url": "https://uselector.cdn.intigral-ott.net/ASHD/ASHD.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=509911a82482f4cf248a534023eb9cdb}"
   },
     {
-  "KSA 1": ,
+ "name": "KSA 1": ,
     "url": "https://uselector.cdn.intigral-ott.net/KSA1/KSA1.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4efdc868ec53656d4f3ec8e09b814402}"
   },
     {
-  "SBC": ,
+ "name": "SBC": ,
     "url": "https://uselector.cdn.intigral-ott.net/KST/KST.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f67885a1e6a52f11eb133dc422144434}"
   },
     {
-  "MBC 1 HD": ,
+ "name": "MBC 1 HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9d74a531df6f2cedda02b6c9f564d39a}"
   },
     {
-  "STC TV Drama": ,
+ "name": "STC TV Drama": ,
     "url": "https://uselector.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e81223c66a46efacd95b83c9ebbb8c1c}"
   },
     {
-  "STC TV Family": ,
+ "name": "STC TV Family": ,
     "url": "https://uselector.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c5a1e1a129825f6cf52521c5217126a4}"
   },
     {
-  "STC TV Anime": ,
+ "name": "STC TV Anime": ,
     "url": "https://uselector.cdn.intigral-ott.net/STCA/STCA.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5002f35f03d5b1079b7eccf7fda26dbe}"
   },
     {
-  "Bedaya HD": ,
+ "name": "Bedaya HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ABD/ABD.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=348d5dc475576d0089d44682822cef2c}"
   },
     {
-  "Rotana Khalejia HD": ,
+ "name": "Rotana Khalejia HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a5c1b40cae897024745e56343cf43b50}"
   },
     {
-  "Rotana + HD": {
+ "name": "Rotana + HD": {
     "url": "https://uselector.cdn.intigral-ott.net/ROTP/ROTP.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bc9b482e1188d3f5e702c49fcd598615}"
   },
       {
-  "MBC Drama + HD": ,
+ "name": "MBC Drama + HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/MBP/MBP.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=522f1af7009bc125fe0e40e143532052}"
   },
     {
-  "MBC Masr HD": ,
+ "name": "MBC Masr HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=85409011875d7f74f547143f646d6bd9}"
   },
     {
-  "MBC Masr 2 HD": ,
+ "name": "MBC Masr 2 HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4495168cf1a99038546b9d042dbe7c97}"
   },
     {
-  "MBC Drama HD": ,
+ "name": "MBC Drama HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/MBD/MBD.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7d593d24bc0b3a9cb249d4a95a14f69b}"
   },
     {
-  "Abu Dhabi TV HD": ,
+ "name": "Abu Dhabi TV HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ADT/ADT.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=da36dbd066fd5e48a95d78dc18cf4333}"
   },
     {
-  "Abu Dhabi Drama HD": ,
+ "name": "Abu Dhabi Drama HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ADY/ADY.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=21e358c133de8a93bb1ffacfe72c839f}"
   },
     {
-  "Rotana Classic HD": ,
+ "name": "Rotana Classic HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ROTC/ROTC.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7d11dc9b38e2f3c2555701672f1878b1}"
   },
     {
-  "Rotana Cinema HD": ,
+"name":  "Rotana Cinema HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ROTN/ROTN.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1cf33f0c0817d7ed21df1f258c4d7b8d}"
   },
     {
-  "Rotana Aflam HD": ,
+"name":  "Rotana Aflam HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ROT/ROT.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6ff1829aa6c2dc313e172a89172db5a2}"
   },
     {
-  "Cinema 1 HD": ,
+ "name": "Cinema 1 HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/STCC1/STCC1.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=2a2d861a0b66d68428f67d5938726f0f}"
   },
     {
-  "Cinema 2 HD": ,
+ "name": "Cinema 2 HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/STCC2/STCC2.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=18fdcf623f7ce5820f133b4f2ec2f03f}"
   },
-  "Rotana Kids HD": ,
+    {
+"name":  "Rotana Kids HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/ROTKD/ROTKD.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=03b1503dcd1e070bc9e3fd6678d7f01d}"
   },
     {
-  "SMA TV HD": ,
+ "name": "SMA TV HD": ,
     "url": "https://uselector.cdn.intigral-ott.net/SMA/SMA.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=96d8492ae128e1b21653d82efb4e74fc}"
   },
     {
-  "Cartoon Network Arabia": ,
+ "name": "Cartoon Network Arabia": ,
     "url": "https://uselector.cdn.intigral-ott.net/CN/CN.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=290a7d9dd3ff02a14c03e2af54f00826}"
   },
     {
-  "Spacetoon": ,
+ "name": "Spacetoon": ,
     "url": "https://uselector.cdn.intigral-ott.net/STO/STO.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=eaed1904b78af6f53c558f2878d94f68}"
   },
     {
-  "Majid Kids": ,
+ "name": "Majid Kids": ,
     "url": "https://uselector.cdn.intigral-ott.net/MJD/MJD.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=284cbbf8cb4b79f1a5d87a6d74da83b8}"
   },
     {
-  "Toyor Aljanah": ,
+ "name": "Toyor Aljanah": ,
     "url": "https://uselector.cdn.intigral-ott.net/TOY/TOY.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ebef5ed38285e5f004707625867b1ae0}"
   },
     {
-  "Mickey": ,
+ "name": "Mickey": ,
     "url": "https://uselector.cdn.intigral-ott.net/MKY/MKY.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ec7ff9cb2a8ae0d91127a218b1a112c8}"
   },
     {
-  "Weyak Tarab": ,
+ "name": "Weyak Tarab": ,
     "url": "https://uselector.cdn.intigral-ott.net/WYT/WYT.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3e5f1830f5e13f55e8a209fe9a3f9c82}"
   },
     {
-  "Weyak Bollywood": ,
+ "name": "Weyak Bollywood": ,
     "url": "https://uselector.cdn.intigral-ott.net/WYB/WYB.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=48261ef09cbd7c7d218080da7c261d41}"
   },
     {
-  "Weyak Egyptian": ,
+ "name": "Weyak Egyptian": ,
     "url": "https://uselector.cdn.intigral-ott.net/WYE/WYE.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=37e77f24eb37ef80f25d7a7e3bc95e2b}"
   },
     {
-  "Asharq News": ,
+"name":  "Asharq News": ,
     "url": "https://uselector.cdn.intigral-ott.net/ASQ/ASQ.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f13e3b761a4d63d7a41be04c0e97ee21}"
   },
     {
-  "Al Arabiya": ,
+ "name": "Al Arabiya": ,
     "url": "https://uselector.cdn.intigral-ott.net/ALB/ALB.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=254e37864c65d75b4ef6342a1d5889d0}"
   },
     {
-  "Sky News Arabia": ,
+ "name": "Sky News Arabia": ,
     "url": "https://uselector.cdn.intigral-ott.net/SNAB/SNAB.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3fc7f5f2e95f73517fa1c6b1d8d23fc2}"
   },
     {
-  "France 24": ,
+ "name": "France 24": ,
     "url": "https://uselector.cdn.intigral-ott.net/FR24/FR24.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=2b8feaf1386a8977a91a07dfbce2d7e2}"
   },
     {
-  "TRT World": ,
+ "name": "TRT World": ,
     "url": "https://uselector.cdn.intigral-ott.net/TRTW/TRTW.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1277e924d0dbd7b15a6d29d44555b522}"
   },
     {
-  "RT Arabic": ,
+"name":  "RT Arabic": ,
     "url": "https://uselector.cdn.intigral-ott.net/RTA/RTA.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=65261fefdf558e2407144c6e8b6183e6}"
   },
     {
-  "BBC Arabic": ,
+ "name": "BBC Arabic": ,
     "url": "https://uselector.cdn.intigral-ott.net/BBCA/BBCA.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=65b605df476b0c59ebd57dc451c69a92}"
   },
     {
-  "Al Jazeera Arabic": ,
+ "name": "Al Jazeera Arabic": ,
     "url": "https://uselector.cdn.intigral-ott.net/AJA/AJA.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=33a9e1e1e47a703c00c9e4b1ed8eec66}"
   },
     {
-  "Al Jazeera English": ,
+"name":  "Al Jazeera English": ,
     "url": "https://uselector.cdn.intigral-ott.net/AJE/AJE.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=233c603c3b0d0a06e4fa40a27edec7ef}"
   },
     {
-  "DW Arabia": ,
+"name":  "DW Arabia": ,
     "url": "https://uselector.cdn.intigral-ott.net/DWA/DWA.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fa1e8f9e0005a8d4a9c0731b22849e50}"
   }
 }
