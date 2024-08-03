@@ -89,7 +89,8 @@
     },
     {
       "name": "MBC Masr HD",
-      "url": "https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H991.05﷼OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=854"
+      "url": "https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H991.05﷼OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=85409011875d7f74f547143f646d6bd9}"
+    },
     {
       "name": "MBC Masr 2 HD",
       "url": "https://uselector.cdn.intigral-ott.net/MBMS2/MBMS2.isml/manifest.mpd",
