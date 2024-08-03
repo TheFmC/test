@@ -22,7 +22,7 @@
 },
 
 {
-  "National Geographic Abu Dhabi": ,
+  "name": "National Geographic Abu Dhabi": ,
    "url": "https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bc42486b5253920abdd0cb3e727852f5}"
 },
 
